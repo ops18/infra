@@ -1,0 +1,1 @@
+Either we have to use main.tf with all the code in one block or we can use separate separate file for each components then call the respective parent-module for each components and that module is stored in git way
